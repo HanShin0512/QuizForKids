@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/manual"
+        android:icon="@drawable/manual"
+        android:title="User Manual" />
+
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/history"
+        android:title="History" />
+
+    <item
+        android:id="@+id/TandC"
+        android:icon="@drawable/tandc"
+        android:title="Terms and Conditions" />
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/feedback"
+        android:title="Feedback" />
+
+    <item
+        android:id="@+id/logOut"
+        android:icon="@drawable/account_profile"
+        android:title="Log Out" />
+
+</menu>
